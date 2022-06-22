@@ -56,6 +56,5 @@
     <div id="coviddatos">
 
     </div>
-
 </div>
 @endsection
