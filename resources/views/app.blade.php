@@ -29,6 +29,7 @@
     </div>
 </nav>
 <section>
+
 @yield('content')
 </section>
 <script src="../js/functions.js"></script>
